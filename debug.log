@@ -13,3 +13,6 @@
 [0606/223710.130:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
 [0606/223810.953:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
 [0606/225328.906:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
+[0627/150900.095:ERROR:main_dll_loader_win.cc(141)] Failed to load NW DLL from C:\wamp64\www\finalBoom\groeiendeboom\nw.dll: Kan opgegeven module niet vinden. (0x7E)
+[0627/150916.968:ERROR:main_dll_loader_win.cc(141)] Failed to load NW DLL from C:\wamp64\www\finalBoom\groeiendeboom\nw.dll: Kan opgegeven module niet vinden. (0x7E)
+[0627/151012.283:ERROR:main_dll_loader_win.cc(141)] Failed to load NW DLL from C:\wamp64\www\finalBoom\groeiendeboom\nw.dll: Kan opgegeven module niet vinden. (0x7E)
